@@ -1,0 +1,10 @@
+.DS_Store
+*error_log
+.ftpquota
+.htaccess*
+Arşiv.zip
+wp-content/cache/*
+wp-content/uploads/*
+panel/assets/files/*
+service/rest/storage/framework/*
+service/rest/storage/logs/*
